@@ -17,7 +17,7 @@ int main()
     curl = curl_easy_init();
 
     if(curl) {
-        curl_easy_setopt(curl, CURLOPT_URL, "http://api.simsimi.com/request?text=hello&key=YOUR_API_KEY");
+        curl_easy_setopt(curl, CURLOPT_URL, "http://api.simsimi.com/request?text=hello&key=txeZQ~x6nfXp5c_Sa_UkG5eJWsJpgbmom5sCmXgl");
         curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, WriteCallback);
         curl_easy_setopt(curl, CURLOPT_WRITEDATA, &readBuffer);
         res = curl_easy_perform(curl);
