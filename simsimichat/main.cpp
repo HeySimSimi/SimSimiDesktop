@@ -30,5 +30,19 @@ int main()
         curl_easy_cleanup(curl);
     }
 
+    QPushButton *emojiButton = new QPushButton("Emoji Stickers");
+    layout->addWidget(emojiButton);
+
+    QPushButton *galleryButton = new QPushButton("Image Gallery");
+    layout->addWidget(galleryButton);
+
+    QPushButton *walletButton = new QPushButton("Open Honey Wallet");
+    layout->addWidget(walletButton);
+
+    window.setLayout(layout);
+    window.show();
+
+    return app.exec();
+}
     return 0;
 }
