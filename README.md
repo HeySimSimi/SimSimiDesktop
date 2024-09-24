@@ -2,8 +2,8 @@
 ![Made by Terminal](https://img.shields.io/badge/Made%20by-Terminal-%23B5ECEF?style=for-the-badge&logo=Hyper&logoColor=%23B5ECEF&labelColor=%23073042)
 
 User interface SimSimi can turn your desktop into a chatbot!
-# Supported APIs
-| 심심이 키 | 지원됨          |
+# Supporting API
+| SimSimi make | Supported          |
 | ------- | ------------------ |
 | Small Talk   | :white_check_mark: |
 | Teach   | :white_check_mark:                |
