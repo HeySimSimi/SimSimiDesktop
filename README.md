@@ -9,3 +9,4 @@
 # 서류
 - [심심이 워크숍 서비스 문서](https://workshop.simsimi.com/en/document)
 - [cURL 문서](https://curl.se/libcurl/c/libcurl.html)
+- [홈브류 문서](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-homebrew-on-macos)
