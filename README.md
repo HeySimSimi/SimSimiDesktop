@@ -1,12 +1,14 @@
-# 데스크탑용 심심이
-사용자 인터페이스 심심이 데스크톱에서 로봇이 될 수 있을 거예요!
-# 지원되는 API
+# SimSimi for desktop
+![Made by Terminal](https://img.shields.io/badge/Made%20by-Terminal-%23B5ECEF?style=for-the-badge&logo=Hyper&logoColor=%23B5ECEF&labelColor=%23073042)
+
+User interface SimSimi can turn your desktop into a chatbot!
+# Supported APIs
 | 심심이 키 | 지원됨          |
 | ------- | ------------------ |
-| 스몰토크   | :white_check_mark: |
-| 가르치다   | :white_check_mark:                |
-| 나쁜단어   | :white_check_mark: |
-# 서류
-- [심심이 워크숍 서비스 문서](https://workshop.simsimi.com/en/document)
-- [cURL 문서](https://curl.se/libcurl/c/libcurl.html)
-- [홈브류 문서](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-homebrew-on-macos)
+| Small Talk   | :white_check_mark: |
+| Teach   | :white_check_mark:                |
+| Bad Word   | :white_check_mark: |
+# Document
+- [SimSimi Workshop Service Documentation](https://workshop.simsimi.com/en/document)
+- [cURL Documentation](https://curl.se/libcurl/c/libcurl.html)
+- [Homebrew Documentation](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-homebrew-on-macos)
